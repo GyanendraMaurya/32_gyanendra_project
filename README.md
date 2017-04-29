@@ -12,4 +12,4 @@
  <p>Validation of CSI form is done using jquery</p>
  <br><br>
  <h2>php+mysql.zip</h2>
- <p>It contains registation form(LOGIN PAGE, REGISTRATION PAGE, HOMEPAGE). Validation of fileds is done using javascript. php is used to input data into database. Data from database can also be retrieved after succesful login. </p>
+ <p>It contains registation form(LOGIN PAGE, REGISTRATION PAGE, HOMEPAGE). Validation of fileds are done using javascript. PHP is used to input data into database. Data from database can also be retrieved after successful login. </p>
